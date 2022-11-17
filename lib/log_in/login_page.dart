@@ -20,14 +20,14 @@ class LoginPage extends StatelessWidget{
         padding: const EdgeInsets.all(8.0),
         child: Center(
           child: FormBuilder(
-            child: Column(
+            child: ListView(
               
               children: [
                 const SizedBox( height: 20 ),
                 const Text("Store App", style: TextStyle( fontSize: 46, color: Color.fromARGB( 255, 255, 255, 255) ) ),
                 const SizedBox( height: 10 ),
                 const SizedBox(
-                  height: 480.0,
+                  height: 320.0,
                   width:  500.0,
                   child:  HeadBackground(),
                 ),
