@@ -1,5 +1,7 @@
 # zv
 
+This is my first Flutter project from 2022. januar 12.
+
 Final exam of the 12+3 weeks course
 
 ## Getting Started
